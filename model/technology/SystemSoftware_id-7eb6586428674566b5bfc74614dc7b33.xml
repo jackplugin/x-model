@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kube-scheduler"
+    id="id-7eb6586428674566b5bfc74614dc7b33"
+    documentation="Looks for Pods not yet bound to a node, and assigns each Pod to a suitable node."/>

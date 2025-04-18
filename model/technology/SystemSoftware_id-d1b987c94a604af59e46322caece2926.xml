@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kube-proxy"
+    id="id-d1b987c94a604af59e46322caece2926"
+    documentation="Maintains network rules on nodes to implement Services."/>

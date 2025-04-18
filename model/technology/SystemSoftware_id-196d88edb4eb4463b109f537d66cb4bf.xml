@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="etcd"
+    id="id-196d88edb4eb4463b109f537d66cb4bf"
+    documentation="Consistent and highly-available key value store for all API server data"/>

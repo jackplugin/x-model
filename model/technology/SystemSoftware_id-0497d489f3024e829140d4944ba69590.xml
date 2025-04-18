@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kube-controller-manager"
+    id="id-0497d489f3024e829140d4944ba69590"
+    documentation="Runs controllers to implement Kubernetes API behavior."/>

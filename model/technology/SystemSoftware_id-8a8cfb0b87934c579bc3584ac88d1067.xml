@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kubelet"
+    id="id-8a8cfb0b87934c579bc3584ac88d1067"
+    documentation="Ensures that Pods are running, including their containers."/>

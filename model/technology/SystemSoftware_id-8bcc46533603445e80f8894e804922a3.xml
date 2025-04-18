@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="cloud-controller-manager"
+    id="id-8bcc46533603445e80f8894e804922a3"
+    documentation="Integrates with underlying cloud provider(s)."/>
